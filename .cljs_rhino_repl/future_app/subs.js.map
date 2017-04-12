@@ -1,0 +1,1 @@
+{"version":3,"file":"\/c:\/msys64\/home\/geezer\/projects\/future-app\/.cljs_rhino_repl\/future_app\/subs.js","sources":["subs.cljs"],"lineCount":9,"mappings":";AAAA;;;AAGA,gCAAA,hCAACA,qGAEC,WAAKC,GAAGC;AAAR,AACE,OAAA,0FAAWD","names":["re-frame.core\/reg-sub","db","_"]}
